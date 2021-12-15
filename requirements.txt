@@ -1,5 +1,5 @@
-tkinter
-PIL
+matplotlib
 numpy
+pandas
 tensorflow
 warnings
